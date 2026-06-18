@@ -1,1 +1,0 @@
-import{_ as s,l as o,c as a,a as e}from"./index-HeobA-fX.js";const n={},r={class:"min-h-screen bg-gray-100 p-8"};function c(l,t){return o(),a("div",r,[...t[0]||(t[0]=[e("h1",{class:"text-3xl font-bold text-gray-800 mb-4"},"404 Not Found",-1),e("p",{class:"text-gray-600"},"您访问的页面不存在",-1)])])}const _=s(n,[["render",c]]);export{_ as default};
